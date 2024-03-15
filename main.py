@@ -1,4 +1,4 @@
 
 def print_hello():
-    print('Hello, {name}')
+    print('Hello, kukuku')
 print_hello()
